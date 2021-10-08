@@ -1,4 +1,4 @@
-# Tokyo 2020 Olympics EDA.ipynb
+# Tokyo 2020 Olympics EDA
 
 ## Introduction
 This project is a quick exploratory data analysis of the Tokyo 2020 Olympics.
