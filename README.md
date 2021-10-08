@@ -1,4 +1,4 @@
-# Tokyo Olympics 2020 Tweets Data Analysis.ipynb
+# Tokyo 2020 Olympics EDA.ipynb
 
 ## Introduction
 This project is a quick exploratory data analysis of the Tokyo 2020 Olympics.
@@ -9,7 +9,6 @@ The following should be downloaded and extracted to the project root folder.
 * Athletes.xlsx
 * EntriesGender.xlsx
 * Medals.xlsx
-* Teams.xlsxs
 
 ## Requirements / Libraries
 * Anaconda's Jupyter Notebook
