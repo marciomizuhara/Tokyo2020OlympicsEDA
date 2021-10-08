@@ -23,4 +23,3 @@ The following should be downloaded and extracted to the project root folder.
 
 ![plot1](https://user-images.githubusercontent.com/52802728/136597588-71a5f61b-d508-42ed-ad6d-b4b110c31245.png)
 ![plot2](https://user-images.githubusercontent.com/52802728/136597593-4ecb8104-2c6c-435b-a283-163c3637cf86.png)
-![plot4](https://user-images.githubusercontent.com/52802728/136597596-f477eb0a-5eb6-4745-a901-0b7ba6270ecb.png)
